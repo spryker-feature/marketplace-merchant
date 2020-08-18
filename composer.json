@@ -1,0 +1,21 @@
+{
+  "name": "spryker-feature/marketplace-merchant",
+  "description": "Marketplace Merchant [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.2",
+    "spryker-shop/merchant-opening-hours-widget": "^0.1.0",
+    "spryker/merchant": "^3.0.0",
+    "spryker/merchant-profile-merchant-portal-gui": "^0.3.0",
+    "spryker/merchant-search": "^0.2.0",
+    "spryker/merchant-storage": "^0.1.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "202008.x-dev"
+    }
+  }
+}
