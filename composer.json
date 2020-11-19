@@ -6,11 +6,12 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.3",
     "spryker-shop/merchant-opening-hours-widget": "^0.1.0",
     "spryker-shop/merchant-page": "^0.1.0",
     "spryker-shop/merchant-profile-widget": "^0.1.0",
-    "spryker/merchant": "^3.0.0",
+    "spryker/merchant-category": "^0.1.0",
+    "spryker/merchant-category-data-import": "^0.1.0",
     "spryker/merchant-opening-hours": "^0.2.0",
     "spryker/merchant-opening-hours-data-import": "^0.2.0",
     "spryker/merchant-opening-hours-storage": "^0.2.0",
@@ -23,7 +24,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202008.x-dev"
+      "dev-master": "202009.x-dev"
     }
   }
 }
