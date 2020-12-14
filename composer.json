@@ -18,7 +18,6 @@
     "spryker/merchant-profile": "^0.2.0",
     "spryker/merchant-profile-data-import": "^0.3.0",
     "spryker/merchant-profile-gui": "^0.2.0",
-    "spryker/merchant-profile-merchant-portal-gui": "^0.3.0",
     "spryker/merchant-search": "^0.2.0",
     "spryker/merchant-storage": "^0.1.0"
   },
