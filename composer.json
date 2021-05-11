@@ -1,28 +1,30 @@
 {
-  "name": "spryker-feature/marketplace-merchant",
-  "description": "Marketplace Merchant [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/merchant-page": "^0.1.0",
-    "spryker-shop/merchant-profile-widget": "^0.1.0",
-    "spryker/merchant-profile": "^0.2.0",
-    "spryker/merchant-profile-data-import": "^0.3.0",
-    "spryker/merchant-profile-gui": "^0.2.0",
-    "spryker/merchant-search": "^0.3.0",
-    "spryker/merchant-storage": "^0.1.0",
-    "spryker/merchant-user": "^0.6.0",
-    "spryker/merchant-user-gui": "^0.2.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202009.x-dev"
+    "name": "spryker-feature/marketplace-merchant",
+    "description": "Marketplace Merchant [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/merchant-page": "^0.1.0",
+        "spryker-shop/merchant-profile-widget": "^0.1.0",
+        "spryker-shop/merchant-widget": "^0.1.0",
+        "spryker/merchant-profile": "^0.4.0",
+        "spryker/merchant-profile-data-import": "^0.4.0",
+        "spryker/merchant-profile-gui": "^0.5.0",
+        "spryker/merchant-search": "^0.3.0",
+        "spryker/merchant-storage": "^0.1.0",
+        "spryker/merchant-user": "^0.6.0",
+        "spryker/merchant-user-gui": "^0.2.0",
+        "spryker/weekday-schedule": "^0.2.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/merchant": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/merchant": "Recommended feature dependency."
-  }
 }
