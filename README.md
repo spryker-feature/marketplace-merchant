@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Merchant
 
-The *Marketplace Merchant* feature allows you to create, read, and update a merchant.
+The Marketplace Merchant feature allows you to create, read, and update a merchant in the Spryker Marketplace project.
 
 ## Installation
 
