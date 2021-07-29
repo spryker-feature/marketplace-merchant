@@ -16,7 +16,7 @@
         "spryker/merchant-search": "^0.3.1",
         "spryker/merchant-storage": "^0.2.0",
         "spryker/merchant-user": "^0.7.2",
-        "spryker/merchant-user-gui": "^0.2.3"
+        "spryker/merchant-user-gui": "^0.2.4"
     },
     "extra": {
         "branch-alias": {
