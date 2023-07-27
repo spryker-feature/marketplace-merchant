@@ -2,6 +2,8 @@
 
 The Marketplace Merchant feature allows you to create, read, and update a merchant in the Spryker Marketplace project.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202307.0/marketplace/marketplace-merchant-feature-overview/marketplace-merchant-feature-overview.html)
+
 ## Installation
 
 ```
