@@ -18,11 +18,12 @@
         "spryker/merchant-search": "^1.0.0",
         "spryker/merchant-storage": "^1.1.0",
         "spryker/merchant-user": "^1.4.0",
-        "spryker/merchant-user-gui": "^1.6.0"
+        "spryker/merchant-user-gui": "^1.6.0",
+        "spryker/oauth-merchant-user": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202311.x-dev"
+            "dev-master": "202403.x-dev"
         }
     },
     "suggest": {
