@@ -16,7 +16,7 @@ composer require spryker-feature/marketplace-merchant
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [MerchantAppMerchantPortalGui ^1.0.0](https://github.com/spryker/merchant-app-merchant-portal-gui) (MP GUI)
+- [MerchantAppMerchantPortalGui ^1.1.0](https://github.com/spryker/merchant-app-merchant-portal-gui) (MP GUI)
 - [MerchantProfileMerchantPortalGui ^3.0.0](https://github.com/spryker/merchant-profile-merchant-portal-gui) (MP GUI)
 - [MerchantProfileMerchantPortalGuiExtension ^1.0.0](https://github.com/spryker/merchant-profile-merchant-portal-gui-extension) (Extension)
 - [MerchantSearchExtension ^1.0.0](https://github.com/spryker/merchant-search-extension) (Extension)
