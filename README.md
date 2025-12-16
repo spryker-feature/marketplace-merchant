@@ -17,9 +17,9 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [MerchantAppMerchantPortalGui ^1.2.0](https://github.com/spryker/merchant-app-merchant-portal-gui) (MP GUI)
-- [MerchantProfileMerchantPortalGui ^3.1.0](https://github.com/spryker/merchant-profile-merchant-portal-gui) (MP GUI)
+- [MerchantProfileMerchantPortalGui ^3.2.0](https://github.com/spryker/merchant-profile-merchant-portal-gui) (MP GUI)
 - [MerchantProfileMerchantPortalGuiExtension ^1.0.0](https://github.com/spryker/merchant-profile-merchant-portal-gui-extension) (Extension)
 - [MerchantSearchExtension ^1.0.0](https://github.com/spryker/merchant-search-extension) (Extension)
-- [MerchantsRestApi ^1.0.0](https://github.com/spryker/merchants-rest-api) (Legacy Glue)
+- [MerchantsRestApi ^1.1.0](https://github.com/spryker/merchants-rest-api) (Legacy Glue)
 - [MerchantsRestApiExtension ^1.0.0](https://github.com/spryker/merchants-rest-api-extension) (Extension)
 - [SalesPaymentMerchantExtension ^1.0.0](https://github.com/spryker/sales-payment-merchant-extension) (Extension)
